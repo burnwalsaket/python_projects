@@ -1,5 +1,5 @@
 # python_projects
-🚀 Python Projects Collection (35 Mini Projects)
+🚀 Python Projects Collection (Mini Projects)
 
 Welcome to my Python Projects Repository!
 This repository contains 35 small Python projects that I built to strengthen my programming skills and deepen my understanding of core concepts.
