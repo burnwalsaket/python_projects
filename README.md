@@ -2,7 +2,7 @@
 🚀 Python Projects Collection (Mini Projects)
 
 Welcome to my Python Projects Repository!
-This repository contains 35 small Python projects that I built to strengthen my programming skills and deepen my understanding of core concepts.
+This repository contains small Python projects that I built to strengthen my programming skills and deepen my understanding of core concepts.
 
 📌 About the Repository
 
@@ -25,5 +25,6 @@ Command Line Interface (CLI)
 
 Here are some of the projects included:
 
-Band Name Generator
-Tip Calculator
+1.Band Name Generator
+2.Tip Calculator
+3.Treasure hunt
