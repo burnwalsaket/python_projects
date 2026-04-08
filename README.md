@@ -29,3 +29,5 @@ Here are some of the projects included:
 2.Tip Calculator
 3.Treasure hunt
 4.Rock Paper Scissor
+5.Password Generator
+6.
