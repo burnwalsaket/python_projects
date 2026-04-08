@@ -28,3 +28,4 @@ Here are some of the projects included:
 1.Band Name Generator
 2.Tip Calculator
 3.Treasure hunt
+4.Rock Paper Scissor
