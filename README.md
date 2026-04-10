@@ -30,4 +30,5 @@ Here are some of the projects included:
 3.Treasure hunt
 4.Rock Paper Scissor
 5.Password Generator
-6.
+6.Hangman
+7.
