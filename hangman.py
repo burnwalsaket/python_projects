@@ -1,5 +1,5 @@
 import random
-#there are two files needed to run this project kindly download and import first hangman_words and hangman_art
+#there are two files needed to run this project kindly download and import first hangman_words and hangman_art.
 import hangman_words 
 import hangman_art
 # TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
